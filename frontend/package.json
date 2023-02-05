@@ -16,7 +16,7 @@
     "axios": "^0.21.4",
     "chart.js": "^3.6.2",
     "country-state-city": "^3.0.1",
-    "eslint": "^8.31.0",
+    "eslint": "^8.33.0",
     "npm": "^8.7.0",
     "react": "^17.0.2",
     "react-alert": "^7.0.3",
@@ -39,6 +39,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "dev": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
